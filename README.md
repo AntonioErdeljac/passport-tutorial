@@ -35,7 +35,7 @@ npm start
 
 ## Authors
 
-* **Antonio Erdeljac** - *Initial work* - [Blog-Tutorial](https://github.com/AntonioErdeljac/Blog-Tutorial)
+* **Antonio Erdeljac** - *Initial work* - [Passport-Tutorial](https://github.com/AntonioErdeljac/Blog-Tutorial)
 
 ## Acknowledgments
 
